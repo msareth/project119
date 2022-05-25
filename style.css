@@ -1,0 +1,19 @@
+body {
+    background-color: aliceblue;
+}
+
+#score {
+    font-size: 22px;
+    float: left;
+    margin-left: 20px;
+}
+
+#timer {
+    font-size: 22px;
+    float: right;
+    margin-right: 20px;
+}
+
+#notdrawnsketchp {
+    color: red;
+}
